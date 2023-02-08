@@ -3,7 +3,7 @@
 // VALUES 
 let num1 = 25;
 let num2 = 09;
-let num3 = 04;
+let num3 = 44;
 
 // SOLUTION:
 // USING ELSE_IF CONDITION 
