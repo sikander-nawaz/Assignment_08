@@ -1,7 +1,7 @@
 // Write a js program to check whether a number is divisible by 5 and 11 or not.
 
 // VALUES 
-let value = 55;
+let value = 5555;
 
 // SOLUTION
 // USING IF CONDITION
