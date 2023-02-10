@@ -5,3 +5,4 @@ let year = 2504;
 
 // SOLUTION
 // USING IF CONDITION
+year % 4 === 0 ? console.log("Leap Year") : console.log("No Leap Year");
