@@ -1,7 +1,7 @@
 // Write a js program to check whether a number is negative, positive or zero.
 
 // VALUES 
-let num = 0.25;
+let num = 25;
 
 // SOLUTION
 // USING ELSE_IF CONDITION
