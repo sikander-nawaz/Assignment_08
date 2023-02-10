@@ -1,7 +1,7 @@
 // Write a js program to check whether a number is even or odd. 
 
 // VALUES 
-let num = 24;
+let num = 25;
 
 // SOLUTION
 // USING IF CONDITION
