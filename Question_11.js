@@ -1,10 +1,5 @@
-// Write a js program to input the month number and print the number of days in that month.
+let month = 15;
 
-// VALUES 
-let month = 04;
-
-// SOLUTION:
-// USING IF CONDITION. 
 if (month === 01 || month === 03 || month === 05 || month === 07 || month === 08 || month === 10 || month === 12) {
     console.log(31);
 } else if (month === 04 || month === 06 || month === 09 || month === 11) {
