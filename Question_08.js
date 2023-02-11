@@ -10,5 +10,5 @@ if (alphabet >= "a" && alphabet <= "z") {
 }else if (alphabet >= "A" && alphabet <= "Z") {
     console.log("Upper Case Alphabet");
 }else{
-    console.log("Bandy Da Putter Ban Ja Tu");
+    console.log("Bandy Da Putter Ban");
 }
