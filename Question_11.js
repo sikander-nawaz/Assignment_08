@@ -1,11 +1,13 @@
-let month = 15;
+// Write a js program to count a minimum number of notes in a given amount.
 
-if (month === 01 || month === 03 || month === 05 || month === 07 || month === 08 || month === 10 || month === 12) {
-    console.log(31);
-} else if (month === 04 || month === 06 || month === 09 || month === 11) {
-    console.log(30);
-} else if (month === 02) {
-    console.log(28);
+// VALUES 
+let amount = 25;
+let notes = amount / 10; 
+
+// SOLUTION
+// USING IF CONDITION
+if (amount >= 10) {
+    console.log(parseInt(notes));
 }else{
-    console.log("Masti Kar Rya Shorya");
+    console.log("Wada Note Lay K Aon");
 }
