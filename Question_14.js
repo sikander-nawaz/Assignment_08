@@ -12,6 +12,7 @@ let unitPrice;
 let additonalSurcharge;
 let totalBill;
 
+// USING ELSE_IF CONDITION 
 if (units <= 50) {
     let unitPrice = 0.50 * units;
     let additonalSurcharge = (20/100) * unitPrice;
