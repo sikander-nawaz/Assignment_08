@@ -2,7 +2,7 @@
 
 // SOLUTION
 // VALUES 
-let amount = 7589;
+let amount = 2504;
 let note_5000 = 0;
 let note_1000 = 0;
 let note_500 = 0;
